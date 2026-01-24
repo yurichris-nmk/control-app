@@ -1,0 +1,11 @@
+# Este arquivo mantém o diretório rastreado pelo Git
+
+Adicione suas telas aqui seguindo o template em /docs/TEMPLATES.md
+
+Exemplo:
+
+- LoginScreen.tsx
+- HomeScreen.tsx
+- ProfileScreen.tsx
+
+Ver documentação completa: /src/presentation/screens/README.md

@@ -1,0 +1,11 @@
+# Este arquivo mantém o diretório rastreado pelo Git
+
+Adicione suas stores Zustand aqui.
+
+Ver documentação: /src/presentation/store/README.md
+
+Exemplos:
+- authStore.ts
+- cartStore.ts
+- uiStore.ts
+- userPreferencesStore.ts

@@ -1,0 +1,11 @@
+# Este arquivo mantém o diretório rastreado pelo Git
+
+Adicione seus Contexts aqui.
+
+Ver documentação: /src/presentation/context/README.md
+
+Exemplos:
+- ThemeContext.tsx
+- I18nContext.tsx
+- AuthContext.tsx
+- AppConfigContext.tsx
